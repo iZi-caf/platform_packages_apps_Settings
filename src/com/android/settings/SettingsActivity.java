@@ -1338,6 +1338,16 @@ public class SettingsActivity extends Activity
                     if (!mSMQ.isShowSmqSettings()) {
                         removeTile = true;
                     }
+                } else if (id == R.id.supersu_settings) {
+                    // Embedding into Settings is supported from SuperSU v1.85 and up
+                    boolean supported = false;
+                    try {
+                        supported = (getPackageManager().getPackageInfo("eu.chainfire.supersu", 0).versionCode >= 185);
+                    } catch (PackageManager.NameNotFoundException e) {
+                    }
+                    if (!supported) {
+                        removeTile = true;
+                    }
                 } else if (id == R.id.timer_switch_settings) {
                     Intent intent = new Intent(ACTION_TIMER_SWITCH);
                     List<ResolveInfo> infos = getBaseContext().getPackageManager()
