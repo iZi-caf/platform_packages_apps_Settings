@@ -52,4 +52,5 @@
   <string name="advanced_reboot_title">Reinicio avançado</string>
   <string name="advanced_reboot_summary">Quando desbloqueado, incluir opções no menu de energia para reiniciar o dispositivo em modo de recuperação, bootloader ou executar reinicialização suave</string>
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
+  <string name="supersu_title">SuperSU</string>
 </resources>
