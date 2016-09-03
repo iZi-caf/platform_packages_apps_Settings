@@ -60,4 +60,17 @@
     <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
     <string name="supersu_title">SuperSU</string>
 
+    <!-- System UI dashboard category -->
+    <string name="system_ui_settings_title">System UI</string>
+    <string name="keywords_system_ui">statusbar navigationbar quick settings</string>
+
+    <!-- SystemUI Tuner Parts -->
+    <string name="systemui_tuner_statusbar_title">Items</string>
+    <string name="systemui_tuner_statusbar_summary">Show/hide statusbar items</string>
+    <string name="systemui_tuner_qs_title">Quick settings</string>
+    <string name="systemui_tuner_qs_summary">Modify your tiles</string>
+
+    <!-- Status bar  -->
+    <string name="statusbar_section_header">Status bar</string>
+
 </resources>
