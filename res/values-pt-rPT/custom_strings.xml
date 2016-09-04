@@ -53,4 +53,24 @@
   <string name="advanced_reboot_summary">Quando desbloqueado, incluir opções no menu de energia para reiniciar o dispositivo em modo de recuperação, bootloader ou executar reinicialização suave</string>
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
   <string name="supersu_title">SuperSU</string>
+  <!-- Language options - Volume rocker cursor control -->
+  <string name="cursor_section_header">Cursor</string>
+  <string name="volume_key_cursor_control_title">Controlar o cursor com as teclas de volume</string>
+  <string name="volume_key_cursor_control_off">Desativada</string>
+  <string name="volume_key_cursor_control_on">Volume para cima/baixo move o cursor para a esquerda/direita</string>
+  <string name="volume_key_cursor_control_on_reverse">Volume para cima/baixo move o cursor para a direita/esquerda</string>
+  <!-- Wakeup section under Display settings -->
+  <string name="wakeup_section_header">Acordar</string>
+  <!-- Volume rocker wake -->
+  <string name="volume_rocker_wake_title">Acordar com os botões de volume</string>
+  <string name="volume_rocker_wake_summary">Pressionar as teclas de volume vai acordar seu dispositivo</string>
+  <!-- Display : Rotation -->
+  <string name="display_rotation_title">Rotação</string>
+  <string name="display_rotation_disabled">Desativado</string>
+  <string name="display_rotation_unit">graus</string>
+  <string name="display_rotation_category_title">Modos de rotação</string>
+  <string name="display_rotation_0_title">0 graus</string>
+  <string name="display_rotation_90_title">90 graus</string>
+  <string name="display_rotation_180_title">180 graus</string>
+  <string name="display_rotation_270_title">270 graus</string>
 </resources>

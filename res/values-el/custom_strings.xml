@@ -53,4 +53,8 @@
   <string name="advanced_reboot_summary">Όταν είναι ενεργή, περιλαμβάνονται στο μενού πλήκτρου απενεργοποίησης οι επιλογές επανεκκίνησης σε λειτουργία recovery, bootloader ή εκτέλεση γρήγορης επανεκκίνησης</string>
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
   <string name="supersu_title">SuperSU (Διαχειριστής Root)</string>
+  <!-- Language options - Volume rocker cursor control -->
+  <!-- Wakeup section under Display settings -->
+  <!-- Volume rocker wake -->
+  <!-- Display : Rotation -->
 </resources>

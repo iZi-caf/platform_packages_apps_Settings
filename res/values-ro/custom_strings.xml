@@ -26,4 +26,8 @@
   <!-- Hostname setting -->
   <!-- Advanced reboot options -->
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
+  <!-- Language options - Volume rocker cursor control -->
+  <!-- Wakeup section under Display settings -->
+  <!-- Volume rocker wake -->
+  <!-- Display : Rotation -->
 </resources>

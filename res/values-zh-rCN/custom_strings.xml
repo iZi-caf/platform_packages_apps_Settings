@@ -53,4 +53,8 @@
   <string name="advanced_reboot_summary">设备解锁时，在电源菜单的重启选项下加入重启至恢复模式、引导程序与软重启选项</string>
   <!-- SuperSU header name - the app hides itself from launcher based on this resource name being present in com.android.settings -->
   <string name="supersu_title">SuperSU</string>
+  <!-- Language options - Volume rocker cursor control -->
+  <!-- Wakeup section under Display settings -->
+  <!-- Volume rocker wake -->
+  <!-- Display : Rotation -->
 </resources>
